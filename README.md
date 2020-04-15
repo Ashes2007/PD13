@@ -18,7 +18,7 @@ The codebase is a heavily modified NSV13.
 ~~
     
      Phase 2:
-      Planetary phase! We begin implementing planetary systems. This system is EXTREMELY lightweight. All we do is modify gravity     systems so we always have gravity. Atmosphere will be modified to be generated and regulated automatically. This phase and beyond wil no longer pull any updates from NSV13.
+      -Planetary phase! We begin implementing planetary systems. This system is EXTREMELY lightweight. All we do is modify gravity     -systems so we always have gravity. Atmosphere will be modified to be generated and regulated automatically. This phase and beyond wil no longer pull any updates from NSV13.
    
 ~~
 
